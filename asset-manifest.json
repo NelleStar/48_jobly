@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/48_jobly/static/css/main.597d1b1a.css",
+    "main.js": "/48_jobly/static/js/main.6de78336.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/48_jobly/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/48_jobly/index.html",
+    "main.597d1b1a.css.map": "/48_jobly/static/css/main.597d1b1a.css.map",
+    "main.6de78336.js.map": "/48_jobly/static/js/main.6de78336.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/48_jobly/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.597d1b1a.css",
+    "static/js/main.6de78336.js"
+  ]
+}
